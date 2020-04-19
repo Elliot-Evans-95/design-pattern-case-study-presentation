@@ -3,3 +3,7 @@ dist
 .cache
 .idea
 .DS_Store
+.yarn/*
+!.yarn/releases
+!.yarn/plugins
+.pnp.*
